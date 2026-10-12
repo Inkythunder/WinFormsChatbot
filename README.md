@@ -2,6 +2,8 @@
  
 A simple Windows desktop app for chatting with Claude through the Claude API.
 
+The purpose of this project is to learn about how to use the Windows/.NET APIs using C# (such as WinForms which is used for the UI) and also to see how the Claude API works.
+
 ![api screenshot](screenshots/screenshot_apikey.png)
 ![main window screenshot](screenshots/screenshot_form.png)
  
