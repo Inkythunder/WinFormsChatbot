@@ -1,4 +1,4 @@
-# Claude Chat
+# WinForms Chatbot
  
 A simple Windows desktop app for chatting with Claude through the Claude API.
 
